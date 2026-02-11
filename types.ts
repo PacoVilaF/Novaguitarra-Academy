@@ -9,7 +9,7 @@ export interface Review {
   avatar: string;
 }
 
-export interface EducationItem {
+dexport interface EducationItem {
   institution: string;
   degree: string;
   period: string;
